@@ -1,8 +1,5 @@
 # machine-learning
-Mini Projects From CS Students in Vassireddy Venkatadri Institute Of Technology (VVIT) 
-
-# Output
-
+Mini Projects on Machine Learning From CS Students in Vassireddy Venkatadri Institute Of Technology (VVIT) 
 
 # :octocat: How to contribute?
 
